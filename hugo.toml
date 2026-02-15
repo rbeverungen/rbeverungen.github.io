@@ -1,0 +1,23 @@
+baseURL = "https://rbeverungen.github.io/"
+languageCode = "en-us"
+title = "Rich"
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 5
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+description = "Resilient household systems, civic tools, and modular workflows"
+showSocialIcons = true
+
+[params.profileMode]
+enabled = true
+title = "Hi, I'm Rich"
+subtitle = "I am tinkering with resilient household systems, civic tools, and modular workflows"
+showSocial = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/rbeverungen"
