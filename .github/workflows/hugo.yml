@@ -1,4 +1,5 @@
 name: github pages
+# trigger rebuild on push to main or pull request
 
 on:
   push:
